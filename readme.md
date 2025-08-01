@@ -5,4 +5,3 @@ Requirements.txt
 azure-core
 azure-identity
 azure-mgmt-securityinsight
-requests
